@@ -1,0 +1,245 @@
+TPaint App
+v7
+r0
+t292737843.436170
+cCheck dependencies
+cProcessInfoPlistFile "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Info.plist" Paint_App-Info.plist
+cCompileXIB "/Users/albertrenshaw/Desktop/Paint App/MainWindow.xib"
+cCompileXIB "/Users/albertrenshaw/Desktop/Paint App/Paint_AppViewController.xib"
+cProcessPCH /var/folders/fG/fGk6ofaoFp0VnMmCBfGYJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paint_App_Prefix-adrwtzbrwufdllcslirblxraagok/Paint_App_Prefix.pch.gch Paint_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/main.o" "/Users/albertrenshaw/Desktop/Paint App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppAppDelegate.o" "/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppViewController.o" "/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppAppDelegate.h
+c000000004BC29B2000000000000001E6
+t1271044896
+s486
+i<UIKit/UIKit.h>
+
+N/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppAppDelegate.m
+c000000004BC29B2000000000000002A8
+t1271044896
+s680
+i"Paint_AppAppDelegate.h"
+i"Paint_AppViewController.h"
+
+N/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.h
+c000000004BC29B2D000000000000013F
+t1271044909
+s319
+i<UIKit/UIKit.h>
+
+N/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m
+c000000004BC29BAF00000000000011E0
+t1271045039
+s4576
+i"Paint_AppViewController.h"
+
+N/Users/albertrenshaw/Desktop/Paint App/MainWindow.xib
+c000000004BC29B200000000000002662
+t1271044896
+s9826
+
+N/Users/albertrenshaw/Desktop/Paint App/Paint_AppViewController.xib
+c000000004BC29B200000000000001A4D
+t1271044896
+s6733
+
+N/Users/albertrenshaw/Desktop/Paint App/Paint_App_Prefix.pch
+c000000004BC29B2000000000000000BB
+t1271044896
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app
+t2
+s0
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app.dSYM
+t2
+s0
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Info.plist
+t1271045042
+s601
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/MainWindow.nib
+t1271045042
+s1514
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Paint App
+t2
+s0
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Paint_AppViewController.nib
+t1271045042
+s1151
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/PkgInfo
+t1271045042
+s8
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint App.LinkFileList
+c000000004BC29BB2000000000000019D
+t1271045042
+s413
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppAppDelegate.o
+t1271045043
+s38284
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppViewController.o
+t2
+s0
+
+N/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/main.o
+t1271045043
+s5948
+
+N/Users/albertrenshaw/Desktop/Paint App/main.m
+c000000004BC29B200000000000000166
+t1271044896
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/fG/fGk6ofaoFp0VnMmCBfGYJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paint_App_Prefix-adrwtzbrwufdllcslirblxraagok/Paint_App_Prefix.pch.gch
+t1271045043
+s13026768
+
+NPaint_App-Info.plist
+c000000004BC29B20000000000000038D
+t1271044896
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292737842#292737842#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppAppDelegate.o" "/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292737843.346007
+e292737843.409445
+r1
+xCompileC
+xbuild/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppAppDelegate.o
+x/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppAppDelegate.m292737843#292737843#0(0"0(0#0#69"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppAppDelegate.m4300911832#1961"    cd "/Users/albertrenshaw/Desktop/Paint App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-generated-files.hmap" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-own-target-headers.hmap" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-all-target-headers.hmap" -iquote "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-project-headers.hmap" "-F/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator" "-I/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/include" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/DerivedSources/i386" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/DerivedSources" -include /var/folders/fG/fGk6ofaoFp0VnMmCBfGYJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paint_App_Prefix-adrwtzbrwufdllcslirblxraagok/Paint_App_Prefix.pch -c "/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppAppDelegate.m" -o "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppAppDelegate.o"0#
+
+CCompileC "build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppViewController.o" "/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292737843.391751
+e292737843.436006
+r0
+xCompileC
+xbuild/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppViewController.o
+x/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m: In function '-[Paint_AppViewController touchesMoved:withEvent:]':
+o/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:44: error: request for member 'frame' in something not a structure or union
+o/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:44: error: request for member 'frame' in something not a structure or union
+o/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m: In function '-[Paint_AppViewController touchesEnded:withEvent:]':
+o/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:76: error: request for member 'frame' in something not a structure or union
+o/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:76: error: request for member 'frame' in something not a structure or union
+o/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m: At top level:
+o/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:141: fatal error: method definition not in @implementation context
+ocompilation terminated.
+o{standard input}:224:FATAL:.abort  detected.  Assembly stopping.
+lSLF07#2@80"Compile /Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m292737843#292737843#0(1193"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m: In function '-[Paint_AppViewController touchesMoved:withEvent:]':/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:44: error: request for member 'frame' in something not a structure or union/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:44: error: request for member 'frame' in something not a structure or union/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m: In function '-[Paint_AppViewController touchesEnded:withEvent:]':/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:76: error: request for member 'frame' in something not a structure or union/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:76: error: request for member 'frame' in something not a structure or union/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m: At top level:/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m:141: fatal error: method definition not in @implementation contextcompilation terminated.{standard input}:224:FATAL:.abort  detected.  Assembly stopping.6(4@64"Request for member 'frame' in something not a structure or union292737843#140#149#0(6@72"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m292737839#44#0#44#0#0"0(4@64"Request for member 'frame' in something not a structure or union292737843#289#149#0(6@72"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m292737839#44#0#44#0#0"0(4@64"Request for member 'frame' in something not a structure or union292737843#578#149#0(6@72"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m292737839#76#0#76#0#0"0(4@64"Request for member 'frame' in something not a structure or union292737843#727#149#0(6@72"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m292737839#76#0#76#0#0"0(23@13"At top level:292737843#876#88#0(6@72"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m292737839#0#0#0#0#0"0(4@48"Method definition not in @implementation context292737843#964#140#0(6@72"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m292737839#141#0#141#0#48"method definition not in @implementation context0(0#0#72"/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m4300911832#1967"    cd "/Users/albertrenshaw/Desktop/Paint App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-generated-files.hmap" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-own-target-headers.hmap" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-all-target-headers.hmap" -iquote "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-project-headers.hmap" "-F/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator" "-I/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/include" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/DerivedSources/i386" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/DerivedSources" -include /var/folders/fG/fGk6ofaoFp0VnMmCBfGYJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paint_App_Prefix-adrwtzbrwufdllcslirblxraagok/Paint_App_Prefix.pch -c "/Users/albertrenshaw/Desktop/Paint App/Classes/Paint_AppViewController.m" -o "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/Paint_AppViewController.o"1#
+
+CCompileC "build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/main.o" "/Users/albertrenshaw/Desktop/Paint App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292737843.344760
+e292737843.391642
+r1
+xCompileC
+xbuild/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/main.o
+x/Users/albertrenshaw/Desktop/Paint App/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/albertrenshaw/Desktop/Paint App/main.m292737843#292737843#0(0"0(0#0#45"/Users/albertrenshaw/Desktop/Paint App/main.m4300911832#1921"    cd "/Users/albertrenshaw/Desktop/Paint App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-generated-files.hmap" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-own-target-headers.hmap" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-all-target-headers.hmap" -iquote "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-project-headers.hmap" "-F/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator" "-I/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/include" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/DerivedSources/i386" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/DerivedSources" -include /var/folders/fG/fGk6ofaoFp0VnMmCBfGYJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paint_App_Prefix-adrwtzbrwufdllcslirblxraagok/Paint_App_Prefix.pch -c "/Users/albertrenshaw/Desktop/Paint App/main.m" -o "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/albertrenshaw/Desktop/Paint App/MainWindow.xib"
+s292737842.464622
+e292737842.733915
+r1
+xCompileXIB
+x/Users/albertrenshaw/Desktop/Paint App/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292737842#292737842#0(0"0(0#0#53"/Users/albertrenshaw/Desktop/Paint App/MainWindow.xib4300911832#490"    cd "/Users/albertrenshaw/Desktop/Paint App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/MainWindow.nib" "/Users/albertrenshaw/Desktop/Paint App/MainWindow.xib"0#
+
+CCompileXIB "/Users/albertrenshaw/Desktop/Paint App/Paint_AppViewController.xib"
+s292737842.465356
+e292737842.717613
+r1
+xCompileXIB
+x/Users/albertrenshaw/Desktop/Paint App/Paint_AppViewController.xib
+lSLF07#2@38"CompileXIB Paint_AppViewController.xib292737842#292737842#0(0"0(0#0#66"/Users/albertrenshaw/Desktop/Paint App/Paint_AppViewController.xib4300911832#516"    cd "/Users/albertrenshaw/Desktop/Paint App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Paint_AppViewController.nib" "/Users/albertrenshaw/Desktop/Paint App/Paint_AppViewController.xib"0#
+
+CGenerateDSYMFile "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app.dSYM" "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Paint App"
+r0
+
+CLd "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Paint App" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Info.plist" Paint_App-Info.plist
+s292737842.422815
+e292737842.464460
+r1
+xProcessInfoPlistFile
+x/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Info.plist
+xPaint_App-Info.plist
+lSLF07#2@28"Process Paint_App-Info.plist292737842#292737842#0(0"0(0#0#59"/Users/albertrenshaw/Desktop/Paint App/Paint_App-Info.plist8458375210121371648#491"    cd "/Users/albertrenshaw/Desktop/Paint App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Paint_App-Info.plist -genpkginfo "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app/Info.plist"0#
+
+CProcessPCH /var/folders/fG/fGk6ofaoFp0VnMmCBfGYJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paint_App_Prefix-adrwtzbrwufdllcslirblxraagok/Paint_App_Prefix.pch.gch Paint_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292737842.734111
+e292737843.344613
+r1
+xProcessPCH
+x/var/folders/fG/fGk6ofaoFp0VnMmCBfGYJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paint_App_Prefix-adrwtzbrwufdllcslirblxraagok/Paint_App_Prefix.pch.gch
+xPaint_App_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Paint_App_Prefix.pch292737842#292737843#0(0"0(0#0#59"/Users/albertrenshaw/Desktop/Paint App/Paint_App_Prefix.pch4300911832#1809"    cd "/Users/albertrenshaw/Desktop/Paint App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-generated-files.hmap" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-own-target-headers.hmap" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-all-target-headers.hmap" -iquote "/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/Paint App-project-headers.hmap" "-F/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator" "-I/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/include" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/DerivedSources/i386" "-I/Users/albertrenshaw/Desktop/Paint App/build/Paint App.build/Debug-iphonesimulator/Paint App.build/DerivedSources" -c "/Users/albertrenshaw/Desktop/Paint App/Paint_App_Prefix.pch" -o /var/folders/fG/fGk6ofaoFp0VnMmCBfGYJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Paint_App_Prefix-adrwtzbrwufdllcslirblxraagok/Paint_App_Prefix.pch.gch0#
+
+CTouch "/Users/albertrenshaw/Desktop/Paint App/build/Debug-iphonesimulator/Paint App.app"
+r0
+

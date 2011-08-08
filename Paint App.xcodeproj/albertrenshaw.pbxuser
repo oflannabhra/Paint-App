@@ -1,0 +1,137 @@
+// !$*UTF8*$!
+{
+	06B574451172D2A000ED0F01 /* Paint App */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Paint App";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	06B574551172D2BE00ED0F01 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	06B574561172D2BE00ED0F01 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	06B5748C1172D43400ED0F01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Paint_AppViewController.h */;
+		name = "Paint_AppViewController.h: 15";
+		rLen = 0;
+		rLoc = 309;
+		rType = 0;
+		vrLen = 319;
+		vrLoc = 0;
+	};
+	06B5748D1172D43400ED0F01 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'frame' in something not a structure or union";
+		fRef = 28D7ACF70DDB3853001CB0EB /* Paint_AppViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 43;
+		rType = 1;
+	};
+	06B5749C1172D45D00ED0F01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Paint_AppViewController.m */;
+		name = "Paint_AppViewController.m: 78";
+		rLen = 0;
+		rLoc = 2572;
+		rType = 0;
+		vrLen = 1045;
+		vrLoc = 2171;
+	};
+	1D6058900D05DD3D006BFB54 /* Paint App */ = {
+		activeExec = 0;
+		executables = (
+			06B574451172D2A000ED0F01 /* Paint App */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Paint_AppViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{309, 0}";
+			sepNavVisRange = "{0, 319}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Paint_AppViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1223, 1781}}";
+			sepNavSelRange = "{2572, 0}";
+			sepNavVisRange = "{2171, 1045}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 06B574451172D2A000ED0F01 /* Paint App */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Paint App */;
+		codeSenseManager = 06B574561172D2BE00ED0F01 /* Code sense */;
+		executables = (
+			06B574451172D2A000ED0F01 /* Paint App */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292737696;
+			PBXWorkspaceStateSaveDate = 292737696;
+		};
+		perUserProjectItems = {
+			06B5748C1172D43400ED0F01 /* PBXTextBookmark */ = 06B5748C1172D43400ED0F01 /* PBXTextBookmark */;
+			06B5748D1172D43400ED0F01 /* XCBuildMessageTextBookmark */ = 06B5748D1172D43400ED0F01 /* XCBuildMessageTextBookmark */;
+			06B5749C1172D45D00ED0F01 /* PBXTextBookmark */ = 06B5749C1172D45D00ED0F01 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 06B574551172D2BE00ED0F01 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
