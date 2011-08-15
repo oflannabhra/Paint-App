@@ -1,0 +1,10 @@
+This is an app that tracks touches in a custom subclass of UIView (called CanvasView) and draws them by implementing the - drawrect method. This view is positioned on top of a sample background image and is transparent.
+
+Paths are added to an NSMutableArray to allow functionality for undo. It is currently limited to Line objects, although other shapes are perfectly able to be implemented.
+
+Future Plans:
+- Refactor the drawing code to perform better. The current implementation draws both the current line and all previous lines every time touches change. This could be much more efficient by using Layers to only draw the current line (and popping layers for undo functionality).
+- Expand the types of shapes to draw. Make Line a subclass of a Shape class to allow for custom shape drawing.
+- Implement pop-up notes.
+
+Feel free to expand the functionality to meet your needs. This is a very simple implementation that was done as an exercise.
